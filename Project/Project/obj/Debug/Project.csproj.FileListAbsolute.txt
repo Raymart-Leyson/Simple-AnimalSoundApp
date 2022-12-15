@@ -1,0 +1,8 @@
+G:\Users\rayma\COde\Project\Project\bin\Debug\Project.exe.config
+G:\Users\rayma\COde\Project\Project\bin\Debug\Project.exe
+G:\Users\rayma\COde\Project\Project\bin\Debug\Project.pdb
+G:\Users\rayma\COde\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+G:\Users\rayma\COde\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+G:\Users\rayma\COde\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+G:\Users\rayma\COde\Project\Project\obj\Debug\Project.exe
+G:\Users\rayma\COde\Project\Project\obj\Debug\Project.pdb
